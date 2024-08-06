@@ -1287,11 +1287,13 @@ name = "oci-unpack"
 version = "0.1.0"
 dependencies = [
  "file-mode",
+ "filetime",
  "flate2",
  "oci-client",
  "oci-spec",
  "serde",
  "serde_json",
+ "sha2",
  "tar",
  "thiserror",
  "tokio",
