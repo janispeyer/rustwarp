@@ -2326,6 +2326,7 @@ dependencies = [
  "serial_test",
  "str-cat",
  "syscalls",
+ "tempfile",
  "thiserror",
  "tokio",
  "warpforge-api",
